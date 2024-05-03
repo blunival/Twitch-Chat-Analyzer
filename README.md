@@ -24,7 +24,7 @@
 
 - If there's a free way of obtaining a code signing certificate so antivirus programs don't do that I didn't find it lmaoo (idk what i'm doing ngl)
 
-- I've only taken one bioinformatics class 2 years ago and that's it, and that's all my coding experience. The initial code was borked af, and a lot of stuff didn't work like emotes with colons (as a D: and :) user this was very troubling. Soooo most of the final product was done with the assistance of **Microsoft Copilot**. 
+- I've only taken one bioinformatics class 2 years ago and that's it, and that's all my coding experience. The initial code was borked af, and a lot of stuff didn't work like emotes with colons [as a D: and :) user this was very troubling]. Soooo most of the final product was done with the assistance of **Microsoft Copilot**. 
 
 ```python
 import os
