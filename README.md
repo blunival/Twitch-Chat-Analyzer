@@ -18,7 +18,7 @@
 
 **Other Stuff of Note**
 
-- I've included some chat log files to mess around with in the github repo (download instructions found by pressing (?) in the app - you will have to use [TwitchDownloaderWPF]([GitHub - lay295/TwitchDownloader: Twitch VOD/Clip Downloader - Chat Download/Render/Replay](https://github.com/lay295/TwitchDownloader))).
+- I've included some chat log files to mess around with in the github repo (instructions for how to download chat logs from any streamer can be found by pressing (?) in the app - you will have to use [TwitchDownloaderWPF]([GitHub - lay295/TwitchDownloader: Twitch VOD/Clip Downloader - Chat Download/Render/Replay](https://github.com/lay295/TwitchDownloader))).
 
 - Windows Defender and other antivirus software will probably **be very sus** of this program lol. 
 
