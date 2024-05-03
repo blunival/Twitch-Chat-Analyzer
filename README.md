@@ -2,7 +2,7 @@
 
 *@bluni_val*
 
-<img src="https://cdn.discordapp.com/attachments/796055118511472680/1235827287593848883/image.png?ex=6635c959&is=663477d9&hm=423fe260d65c761fdb0adc19121ce560eb773dba2dfc222a9f834c93c38161d0&=" title="" alt="" data-align="center">
+![image](https://github.com/blunival/Twitch-Chat-Analyzer/assets/168806404/e81b58cf-32e2-4763-b0d1-0e9ae709b0d4)
 
 **Functionality**
 
