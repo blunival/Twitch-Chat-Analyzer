@@ -2,7 +2,6 @@
 
 *@bluni_val*
 
-![image](https://github.com/blunival/Twitch-Chat-Analyzer/assets/168806404/e81b58cf-32e2-4763-b0d1-0e9ae709b0d4)
 
 **Functionality**
 
